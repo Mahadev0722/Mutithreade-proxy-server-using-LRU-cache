@@ -1,6 +1,3 @@
-Below is the **README.md** file for your project, tailored to include all relevant details about the multi-threaded proxy server. You can copy and paste this directly into your GitHub repository.
-
----
 
 # Multi-Threaded Proxy Server with LRU Cache
 
